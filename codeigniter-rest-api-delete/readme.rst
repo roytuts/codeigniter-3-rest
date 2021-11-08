@@ -1,0 +1,1 @@
+Please follow the tutorial https://roytuts.com/working-with-restful-services-in-codeigniter-delete-example/

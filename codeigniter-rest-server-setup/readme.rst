@@ -1,0 +1,1 @@
+Please follow the tutorial https://roytuts.com/setup-restful-service-with-codeigniter/

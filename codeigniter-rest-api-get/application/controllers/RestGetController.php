@@ -8,11 +8,11 @@ require_once 'RestController.php';
 use chriskacerguis\RestServer\RestController;
 
 /**
- * Description of RestPostController
+ * Description of RestGetController
  *
  * @author https://roytuts.com
  */
-class RestPostController extends RestController {
+class RestGetController extends RestController {
 	
 	function __construct() {
         parent::__construct();
